@@ -30,9 +30,7 @@ This system supports **smart city development** with a focus on **sustainability
 
 ---
 
-## 🎥 Demo Video
-
-[![Watch the Demo](https://drive.google.com/file/d/1Nq2W6mTPKWU5S7NInsO3HGSkl91WWsjY/view?usp=sharing)]
+## 🎥 Demo Video: https://drive.google.com/file/d/1Nq2W6mTPKWU5S7NInsO3HGSkl91WWsjY/view?usp=sharing
 
 ---
 
