@@ -4,7 +4,7 @@ F-Guard is an innovative forest monitoring device designed to detect illegal def
 
 ---
 
-## 👥 Team Name: **WINIT (We Innovate IT)**
+## 👥 Team Name: **F-Guard**
 
 ### Team Members:
 1. Dhinda Tsamara Shalsabilla (F1D022005) as Leader/Project Manager
