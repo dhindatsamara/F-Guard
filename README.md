@@ -9,7 +9,7 @@ F-Guard is an innovative forest monitoring device designed to detect illegal def
 ### Team Members:
 1. Dhinda Tsamara Shalsabilla (F1D022005) as Leader/Project Manager
 2. Lalu Muhammad Noval A. (F1D022056) as CTO/Hardware Lead
-3. Muhammad Fajar Maulana (F1D022072) as Lead Software Engineer(ML)
+3. Muhammad Fajar Maulana (F1D022072) as Lead Software Engineer(Deep Learning)
 4. Hendra Ahmad Yani (F1D022122) Full-Stack & Mobile App Developer
 
 ---
