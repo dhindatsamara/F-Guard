@@ -1,6 +1,6 @@
 # 🌲 F-Guard: Intelligent Solar-Powered Forest Monitoring System
 
-F-Guard is an innovative forest monitoring device designed to detect illegal deforestation in real-time. By integrating solar energy, audio detection via deep learning, and mobile alert systems, F-Guard empowers forest authorities to respond swiftly and sustainably — even in remote areas without electricity or internet.
+Illegal deforestation in Indonesia causing significant tree cover loss, threatens biodiversity and climate stability, with conventional monitoring methods limited by cost and accessibility. F-Guard is an innovative forest monitoring device designed to detect illegal deforestation in real-time. By integrating solar energy, audio detection via deep learning, and mobile alert systems, F-Guard empowers forest authorities to respond swiftly and sustainably, even in remote areas without electricity or internet.
 
 ---
 
@@ -36,7 +36,7 @@ This system supports **smart city development** with a focus on **sustainability
 
 ## 🔗 Working Prototype
 
-Figma: https://www.figma.com/design/vL8Tq5c0BUShJ4l0dmWAqb/ER-TE-IH?fuid=1311585104169339766 
+Figma: https://www.figma.com/proto/vL8Tq5c0BUShJ4l0dmWAqb/smartcity-f-guard?node-id=206-360&p=f&t=HxMqbF8DnlID7w3x-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=206%3A360  
 Deep Learning Model: https://colab.research.google.com/drive/1FqyFRBQbQ5XDadvygp_yaIVKWy9VQV-F?usp=sharing  
 
 ---
